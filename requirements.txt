@@ -1,0 +1,10 @@
+# UI
+streamlit
+
+# Data
+numpy
+polars
+
+# Data Visualization
+matplotlib
+seaborn
