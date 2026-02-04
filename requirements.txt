@@ -1,10 +1,15 @@
+# These requirements use the 'compatible release operator' (~=) to ensure stability.
+# It allows for bug fixes and security patches (e.g., 1.53.x) 
+# but prohibits major version upgrades that could break the API (e.g., 2.0.0).
+# For students: This is an important consideration for future-proofing! 
+
 # UI
-streamlit
+streamlit~=1.53.0
 
 # Data
-numpy
-polars
+numpy~=2.4.0
+polars~=1.37.0
 
 # Data Visualization
-matplotlib
-seaborn
+matplotlib~=3.10.0
+seaborn~=0.13.0

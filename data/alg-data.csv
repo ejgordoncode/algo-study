@@ -1,0 +1,14 @@
+Algorithm,Time_Best,Time_Average,Time_Worst,Space_Worst,Stable,In_Place,Pseudocode,Description
+Quicksort,Ω(n log(n)),Θ(n log(n)),O(n^2),O(log(n)),No,Yes,placeholder,lorem ipsum
+Mergesort,Ω(n log(n)),Θ(n log(n)),O(n log(n)),O(n),Yes,No,placeholder,lorem ipsum
+Timsort,Ω(n),Θ(n log(n)),O(n log(n)),O(n),Yes,No,placeholder,lorem ipsum
+Heapsort,Ω(n log(n)),Θ(n log(n)),O(n log(n)),O(1),No,Yes,placeholder,lorem ipsum
+Bubble Sort,Ω(n),Θ(n^2),O(n^2),O(1),Yes,Yes,placeholder,lorem ipsum
+Insertion Sort,Ω(n),Θ(n^2),O(n^2),O(1),Yes,Yes,placeholder,lorem ipsum
+Selection Sort,Ω(n^2),Θ(n^2),O(n^2),O(1),No,Yes,placeholder,lorem ipsum
+Tree Sort,Ω(n log(n)),Θ(n log(n)),O(n^2),O(n),Yes,No,placeholder,lorem ipsum
+Shell Sort,Ω(n log(n)),Θ(n(log(n))^2),O(n(log(n))^2),O(1),No,Yes,placeholder,lorem ipsum
+Bucket Sort,Ω(n+k),Θ(n+k),O(n^2),O(n),Yes,No,placeholder,lorem ipsum
+Radix Sort,Ω(nk),Θ(nk),O(nk),O(n+k),Yes,No,placeholder,lorem ipsum
+Counting Sort,Ω(n+k),Θ(n+k),O(n+k),O(k),Yes,No,placeholder,lorem ipsum
+Cubesort,Ω(n),Θ(n log(n)),O(n log(n)),O(n),Yes,No,placeholder,lorem ipsum
